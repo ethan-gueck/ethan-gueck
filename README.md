@@ -12,7 +12,7 @@ Data Scientist at Data Society · Richmond, Virginia
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ethan--gueck.github.io-0B3D2E?style=for-the-badge&labelColor=072A20)](https://ethan-gueck.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0B3D2E?style=for-the-badge&labelColor=072A20)](https://linkedin.com/in/ethan-gueck-447967194)
-[![Email](https://img.shields.io/badge/Email-Reach_out-0B3D2E?style=for-the-badge&logo=gmail&logoColor=D8C3A5&labelColor=072A20)](mailto:ethan.gueck@datasociety.com)
+[![Email](https://img.shields.io/badge/Email-Reach_out-0B3D2E?style=for-the-badge&logo=gmail&logoColor=D8C3A5&labelColor=072A20)](mailto:e.gueck1@datasociety.com)
 
 </div>
 
